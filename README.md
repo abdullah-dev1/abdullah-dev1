@@ -26,7 +26,7 @@
 
 ###  About Me
 
-- 🎓 **CS undergraduate** at FAST-NUCES Faisalabad 
+- 🎓 **CS undergraduate** at FAST National Univeristy of Computer and Emerging Sciences 
 - 🔭 Currently building **CampusCore** — a full-scale university management system
 - 🌱 Deepening skills in **Django REST · PostgreSQL · FastAPI · System Design**
 - 💡 Strong core in **DSA · OOP · Database Systems · Operating Systems**
