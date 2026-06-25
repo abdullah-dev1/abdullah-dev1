@@ -72,8 +72,7 @@
   <tr>
     <td><b>Backend</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/REST%20API-0e75b6?style=flat-square"/>
     </td>
