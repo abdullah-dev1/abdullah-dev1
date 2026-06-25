@@ -72,7 +72,7 @@
   <tr>
     <td><b>Backend</b></td>
     <td>
-      src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+     <img  src="https://img.shields.io/badge/FastAPI-009688?style=FLAT-SQUARE&logo=fastapi&logoColor=white"/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/REST%20API-0e75b6?style=flat-square"/>
     </td>
@@ -82,7 +82,6 @@
     <td>
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
       <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
     </td>
   </tr>
   <tr>
