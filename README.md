@@ -129,7 +129,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:ab1226262022.1@gmail.com">
+  <a href="mailto:devinsightfulabdullah@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Mail%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
