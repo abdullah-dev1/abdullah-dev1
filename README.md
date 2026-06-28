@@ -10,7 +10,7 @@
 
 <h2>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6C63FF&vCenter=true&width=520&lines=Backend+Engineer+%F0%9F%9A%80;Flutter+%2B+FastAPI+Developer;CS+Student+%40+FAST-NUCES;Open+to+Internships+%F0%9F%8C%9F;Building+Real+World+Products" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6C63FF&vCenter=true&width=520&lines=Backend+Engineer;CS+Student+%40+FAST-NUCES;Open+to+Internships;Building+Real+World+Products" alt="Typing SVG" />
   </a>
 </h2>
 
